@@ -13,7 +13,7 @@ class ConfigHttp:
         host = localReadConfig.get_http("baseurl")
         port = localReadConfig.get_http("port")
         timeout = localReadConfig.get_http("timeout")
-        #self.logger = self.get_logger()
+        self.logger = self.get_logger()
         self.headers = {}
         self.params = {}
         self.data = {}
