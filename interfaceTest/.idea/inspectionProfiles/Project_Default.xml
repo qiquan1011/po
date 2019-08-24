@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="common.configEmail.*" />
+          <option value="testone.*" />
+          <option value="common.common.ConfigHttp" />
+          <option value="common.ConfigHttp" />
+          <option value="configHttp" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
